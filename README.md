@@ -22,7 +22,7 @@ Output (after `jq`)
 On MacOS/Ubuntu - `pip3 install requests`
 
 ## To Run
-1. Find your Todoist API key. ![Guide](https://todoist.com/help/articles/find-your-api-token-Jpzx9IIlB)
+1. Find your Todoist API key [![Guide](https://todoist.com/help/articles/find-your-api-token-Jpzx9IIlB)](https://todoist.com/help/articles/find-your-api-token-Jpzx9IIlB)
 2. Enter your API key in the variable `api_token`. 
 3. `python3 todoist-export-completed.py` 
 
